@@ -1,4 +1,4 @@
-const paintings5 = [
+const paintings6 = [
     {
       "id": "6_01",
       "name": "River in Winter",
