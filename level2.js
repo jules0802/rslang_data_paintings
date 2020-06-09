@@ -171,7 +171,7 @@ const paintings2 = [
   "id": "2_22",
   "name": "The Bridge at Mantes",
   "imageSrc": "level2/2_22.jpg",
-  "cutSrc": "level2/cut//2_22.jpg",
+  "cutSrc": "level2/cut/2_22.jpg",
   "author": "COROT, Jean-Baptiste Camille",
   "year": "1868-70",
 },
